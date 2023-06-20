@@ -16,6 +16,7 @@ import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.List;
 
+
 @WebServlet(name="ListeVilleServlet", value="/ListeVille")
 public class ListeVilleServlet extends HttpServlet {
 

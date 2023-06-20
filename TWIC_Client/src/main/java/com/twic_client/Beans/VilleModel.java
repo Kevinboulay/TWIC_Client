@@ -14,15 +14,4 @@ public class VilleModel {
     public VilleModel() {
     }
 
-    public VilleModel(String codeINSEE, String commune, String codePostal, String libelleAcheminement, String ligne5,
-                      String longitude, String latitude) {
-        super();
-        this.codeINSEE = codeINSEE;
-        this.commune = commune;
-        this.codePostal = codePostal;
-        this.libelleAcheminement = libelleAcheminement;
-        this.ligne5 = ligne5;
-        this.longitude = longitude;
-        this.latitude = latitude;
-    }
 }
